@@ -1,0 +1,5 @@
+C:\Users\mudas\OneDrive\Desktop\MERN STACK\CloudQaAutomationTests\obj\Debug\net10.0\CloudQaAutomationTests.csproj.AssemblyReference.cache
+C:\Users\mudas\OneDrive\Desktop\MERN STACK\CloudQaAutomationTests\obj\Debug\net10.0\CloudQaAutomationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mudas\OneDrive\Desktop\MERN STACK\CloudQaAutomationTests\obj\Debug\net10.0\CloudQaAutomationTests.AssemblyInfoInputs.cache
+C:\Users\mudas\OneDrive\Desktop\MERN STACK\CloudQaAutomationTests\obj\Debug\net10.0\CloudQaAutomationTests.AssemblyInfo.cs
+C:\Users\mudas\OneDrive\Desktop\MERN STACK\CloudQaAutomationTests\obj\Debug\net10.0\CloudQaAutomationTests.csproj.CoreCompileInputs.cache
